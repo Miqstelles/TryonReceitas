@@ -1,4 +1,4 @@
-#Site criado para divulgação do app TryOn Receitas criado para o TCC na Escola Senai Zerbani
+# Site criado para divulgação do app TryOn Receitas criado para o TCC na Escola Senai Zerbani
 
 # Getting Started with Create React App
 
